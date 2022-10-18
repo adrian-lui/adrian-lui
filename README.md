@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adrian-lui
+- 👀 I’m interested in making video game related materials, including coding, 3d modeling, animating...
+- 🌱 I’m currently a student in grit:lab, a coding school on Åland islands. The current curriculum focuses on front and back-end developping using Go.
